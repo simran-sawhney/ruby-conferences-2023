@@ -1,4 +1,7 @@
-# Conferences 2023
+# Ruby Conferences 2023
+
+It's originally from @saramic - I have put down over here as an inspiration for myself so do not have to worry about it if deleted. 
+P.S: It's not my repo rather copy pasted for references from great minds.
 
 A review of all the conferences in 2023
 
